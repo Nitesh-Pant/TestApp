@@ -1,0 +1,78 @@
+{
+    "cards": [
+        {
+            "imageSrc": "https://media-whichmedia.s3.ap-southeast-1.amazonaws.com/media/large/8/d/8d11c787277f.jpeg",
+            "title": "Card 1",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "userName": "Arabian Ranches"
+        },
+        {
+            "imageSrc": "https://emirates.estate/uploads/images/2021-11/1328_890x440.jpg",
+            "title": "Card 2",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "userName": "Arabian Ranches II"
+        },
+        {
+            "imageSrc": "https://content.r9cdn.net/rimg/dimg/aa/18/3d6520f4-hood-209659-166b1b16378.jpg",
+            "title": "Card 3",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "userName": "Downtown Dubai"
+        },
+        {
+            "imageSrc": "https://www.trawell.in/admin/images/upload/123159352Dubai_Marina.jpg",
+            "title": "Card 3",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "userName": "Dubai Marina"
+        },
+        {
+            "imageSrc": "https://i.ytimg.com/vi/ef2o1-VpoSc/maxresdefault.jpg",
+            "title": "Card 3",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "userName": "Dubai Hills Estate"
+        },
+        {
+            "imageSrc": "https://serdar.ae/wp-content/uploads/2022/11/GOLF_HEIGHTS_EMAAR-11.jpg",
+            "title": "Card 3",
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "userName": "Emirates Living"
+        }
+    ],
+    "services": [
+        {
+            "imageSrc": "https://media-whichmedia.s3.ap-southeast-1.amazonaws.com/media/large/8/d/8d11c787277f.jpeg",
+            "userName": "Arabian Ranches"
+        },
+        {
+            "imageSrc": "https://emirates.estate/uploads/images/2021-11/1328_890x440.jpg",
+            "userName": "Arabian Ranches II"
+        },
+        {
+            "imageSrc": "https://content.r9cdn.net/rimg/dimg/aa/18/3d6520f4-hood-209659-166b1b16378.jpg",
+            "userName": "Downtown Dubai"
+        },
+        {
+            "imageSrc": "https://www.trawell.in/admin/images/upload/123159352Dubai_Marina.jpg",
+            "userName": "Dubai Marina"
+        },
+        {
+            "imageSrc": "https://i.ytimg.com/vi/ef2o1-VpoSc/maxresdefault.jpg",
+            "userName": "Dubai Hills Estate"
+        },
+        {
+            "imageSrc": "https://serdar.ae/wp-content/uploads/2022/11/GOLF_HEIGHTS_EMAAR-11.jpg",
+            "userName": "Emirates Living"
+        },
+        {
+            "imageSrc": "https://img.freepik.com/free-photo/central-park-manhattan-new-york-huge-beautiful-park-surrounded-by-skyscraper-with-pond_181624-50335.jpg",
+            "userName": "New York"
+        },
+        {
+            "imageSrc": "https://explorethecanyon.com/wp-content/uploads/2018/01/Secrets-Image-1lr.jpg",
+            "userName": "Grand Canyon"
+        },
+        {
+            "imageSrc": "https://www.state.gov/wp-content/uploads/2023/07/shutterstock_715414783v2.jpg",
+            "userName": "Ireland"
+        }
+    ]
+}
